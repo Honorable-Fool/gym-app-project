@@ -1,11 +1,10 @@
-# python
-
+# Python
 venv/
 __pycache__/
 *.pyc
 .env
 
-# node / react native
+# Node / React Native
 node_modules/
 .expo/
-.dist/
+dist/
